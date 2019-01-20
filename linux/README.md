@@ -18,11 +18,11 @@ Otherwise, we hope this checklist helps out. Good luck!
 
 ## RISING ACTION
 
-1. Update the system_
-    a. Open the System Settings from the top left dropdown menu. They can also be accessed from terminal using `unity-control-center`._ 
+1. Update the system  
+    a. Open the System Settings from the top left dropdown menu. They can also be accessed from terminal using `unity-control-center`. 
         I. Find `Software & Updates`. Check all boxes, except for `Source code` under the `Ubuntu Software` tab.
-        II. In the `Updates` tab, select everything except for `backports`. Make sure to set update period to `Daily`, and to notify `Immediately`. Download and install security updates automatically.
-    b. In the terminal, run `sudo apt-get update && sudo apt-get upgrade && sudo apt-get dist-upgrade`. Wait for this to complete.
+        II. In the `Updates` tab, select everything except for `backports`. Make sure to set update period to `Daily`, and to notify `Immediately`. Download and install security updates automatically.  
+    b. In the terminal, run `sudo apt-get update && sudo apt-get upgrade && sudo apt-get dist-upgrade`. Wait for this to complete.  
 
 3. Remove obvious games & hacking tools
     a. Open `Software` from the top left tab, or run `ubuntu-software-center`.
