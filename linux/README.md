@@ -11,15 +11,15 @@ Otherwise, we hope this checklist helps out. Good luck!
 1. Before **_absolutely anything_**, make sure you read the README provided with the images in full to make sure you know what to do and not to do. 
 
 2. Complete the Forensics questions next. It is advised you do the questions _before_ you do anything else, as you might delete referenced data accidentally.
-* If you do not recieve points for these forensics questions, 95% of the time it is because you have the wrong answer. For the other 5%, check up on the [CyberPatriot Discord](https://discord.gg/7r8NxXk), or ask about on reddit
+    * If you do not recieve points for these forensics questions, 95% of the time it is because you have the wrong answer. For the other 5%, check up on the [CyberPatriot Discord](https://discord.gg/7r8NxXk), or ask about on reddit
 
 3. It is also advised to change your user password... you'll be using the `sudo` command a bunch, and it's much easier to work with a password you can easily use! 
 * use the `passwd` command to do this
 
 ## RISING ACTION
 
-1. Update the system
-    a. Open the System Settings from the top left dropdown menu. They can also be accessed from terminal using `unity-control-center`. 
+1. Update the system_
+    a. Open the System Settings from the top left dropdown menu. They can also be accessed from terminal using `unity-control-center`._ 
         I. Find `Software & Updates`. Check all boxes, except for `Source code` under the `Ubuntu Software` tab.
         II. In the `Updates` tab, select everything except for `backports`. Make sure to set update period to `Daily`, and to notify `Immediately`. Download and install security updates automatically.
     b. In the terminal, run `sudo apt-get update && sudo apt-get upgrade && sudo apt-get dist-upgrade`. Wait for this to complete.
