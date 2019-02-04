@@ -11,10 +11,10 @@ Otherwise, we hope this checklist helps out. Good luck!
 1. Before **_absolutely anything_**, make sure you read the README provided with the images in full to make sure you know what to do and not to do. 
 
 2. Complete the Forensics questions next. It is advised you do the questions _before_ you do anything else, as you might delete referenced data accidentally.
-    * If you do not recieve points for these forensics questions, 95% of the time it is because you have the wrong answer. For the other 5%, check up on the [CyberPatriot Discord](https://discord.gg/7r8NxXk), or ask about on reddit
+	* If you do not recieve points for these forensics questions, 95% of the time it is because you have the wrong answer. For the other 5%, check up on the [CyberPatriot Discord](https://discord.gg/7r8NxXk), or ask about on reddit
 
 3. It is also advised to change your user password... you'll be using the `sudo` command a bunch, and it's much easier to work with a password you can easily use! 
-* use the `passwd` command to do this
+	* use the `passwd` command to do this
 
 ## RISING ACTION
 
